@@ -84,6 +84,7 @@ main {
     position: relative;
     margin: 1rem;
     width: 300px;
+    cursor:pointer;
 }
 
 .movie img {
@@ -125,4 +126,5 @@ main {
     padding: 0px 20px;
     color: #fff;
     letter-spacing: 1px;
+    cursor:pointer;
 }
